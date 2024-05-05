@@ -10,7 +10,7 @@ Copy code
 git clone
 
 ```bash
-git clone https://github.com/ikunalpn/Facial-Attedance-System-Using-Python-Tkinter.git
+git clone https://github.com/ikunalpn/Facial-Attendance-System.git
 ```
 
 Install Dependencies
