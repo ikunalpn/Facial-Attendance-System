@@ -52,7 +52,7 @@ The application will start, and you'll be prompted to log in or create a new use
 🔐 User authentication and authorization
 📷 Sample Images
 
-![Image Alt Text](https://github.com/ikunalpn/Sem6-Project/blob/Main/GUI_Screenshots/login.png)
+![Image Alt Text](https://github.com/ikunalpn/Facial-Attendance-System/blob/main/GUI_Screenshots/login.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attendance-System/blob/main/GUI_Screenshots/Main_Window.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attendance-System/blob/main/GUI_Screenshots/Add_User.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attendance-System/blob/main/GUI_Screenshots/Add_Student.png)
