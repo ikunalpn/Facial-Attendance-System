@@ -39,7 +39,7 @@ database="sem6_project"
 Run the Application
 
 ```bash
-python face.py
+python main.py
 ```
 
 The application will start, and you'll be prompted to log in or create a new user.
