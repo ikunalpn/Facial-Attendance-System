@@ -7,7 +7,8 @@ To run this project, follow these steps:
 Clone the Repository
 
 Copy code
-git clone 
+git clone
+
 ```bash
 git clone https://github.com/ikunalpn/Facial-Attedance-System-Using-Python-Tkinter.git
 ```
@@ -15,10 +16,10 @@ git clone https://github.com/ikunalpn/Facial-Attedance-System-Using-Python-Tkint
 Install Dependencies
 Make sure you have Python installed on your system. Then, install the required Python packages using pip:
 
-
 ```bash
 pip install -r requirements.txt
 ```
+
 Set up MySQL Database
 Install MySQL on your system if you haven't already.
 Create a new database named sem6_project.
@@ -34,11 +35,13 @@ password="your_password",
 database="sem6_project"
 )
 ```
+
 Run the Application
 
 ```bash
 python face.py
 ```
+
 The application will start, and you'll be prompted to log in or create a new user.
 
 🔑 Key Features
@@ -50,7 +53,7 @@ The application will start, and you'll be prompted to log in or create a new use
 📷 Sample Images
 
 ![Image Alt Text](https://github.com/ikunalpn/Sem6-Project/blob/Main/GUI_Screenshots/login.png)
-![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Main_Window.png)
+![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/GUI_Screenshots/Main_Window.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Add_User.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Add_Student.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Mark_Attendance_Subject_Wise.png)
@@ -60,7 +63,6 @@ The application will start, and you'll be prompted to log in or create a new use
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Subject_Wise_Report.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Modify_Student.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Update_Student.png)
-
 
 🤝 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
