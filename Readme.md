@@ -53,7 +53,7 @@ The application will start, and you'll be prompted to log in or create a new use
 📷 Sample Images
 
 ![Image Alt Text](https://github.com/ikunalpn/Sem6-Project/blob/Main/GUI_Screenshots/login.png)
-![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/GUI_Screenshots/Main_Window.png)
+![Image Alt Text](https://github.com/ikunalpn/Facial-Attendance-System/blob/main/GUI_Screenshots/Main_Window.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Add_User.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Add_Student.png)
 ![Image Alt Text](https://github.com/ikunalpn/Facial-Attedance-System/blob/main/GUI_Screenshots/Mark_Attendance_Subject_Wise.png)
